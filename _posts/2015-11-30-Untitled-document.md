@@ -1,7 +1,7 @@
 ---
 title: First Post
 layout: post
-author: barney.mepham
+author: barneme
 permalink: barneme.github.io
 source-id: 1lGlhG5cmGvRmsXbAUzsAm6mOhj9aB0zoOB_REb0Dukk
 published: true
