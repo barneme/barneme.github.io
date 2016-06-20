@@ -8,5 +8,15 @@ published: true
 ---
 Prezi Lesson 3
 
-Today we looked at some examples of our Prezis after the holiday. The first one that was shown was my one, Mr Keen said it was good but I needed to look through it more. Then we looked at another one which Mr Keen said had bad zooming and after that we looked at one from another class where someone had copy and pasted because it was a much better quality than the rest of his work.
+Lesson 1 Summer Term
+
+Today the first thing we did was to look at our Prezi Easter project. The first one we looked at was my one on the History Of Computers ( everyone had to do the same topic). Overall Mr Keen said mine was good but my use of Prezi was not so good.
+
+The next one we looked at had lots of missing capital letters we also thought that the paragraph did not have very much information and we thought that the zooming on it was not very good. 
+
+The next one we saw was not very good and then suddenly their was a paragraph really well written and we realised that it was copy and pasted from another web page.
+
+Our Homework
+
+We have to access somebody else's blog post and to update our presentations for them to be accessed.
 
