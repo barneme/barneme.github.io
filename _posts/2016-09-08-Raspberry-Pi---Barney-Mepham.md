@@ -23,7 +23,7 @@ published: true
   </tr>
   <tr>
     <td>Target for this lesson?</td>
-    <td>To have a Github Pages Static Website</td>
+    <td>Finish 1st Tutorial</td>
   </tr>
   <tr>
     <td>Did I reach my target? 
