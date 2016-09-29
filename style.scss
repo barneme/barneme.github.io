@@ -132,7 +132,7 @@ img {
 // Specify the color of the selection
 ::-moz-selection {
   color: $black;
-  background: $lightGray;
+  background: #D9B310;
 }
 ::selection {
   color: $black;
@@ -234,7 +234,7 @@ nav {
 
   a {
     margin-left: 20px;
-    color: $darkGray;
+    color: #1D2731;
     text-align: right;
     font-weight: 300;
     letter-spacing: 1px;
