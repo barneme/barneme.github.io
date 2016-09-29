@@ -19,7 +19,7 @@ published: true
 <table>
   <tr>
     <td>Starting point:</td>
-    <td>15/09/16</td>
+    <td>Exercise 2</td>
   </tr>
   <tr>
     <td>Target for this lesson?</td>
