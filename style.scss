@@ -16,7 +16,7 @@
 html {
   font-size: 100%;
 }
-    
+
 body {
   background:#328CC1;
   font: 18px/1.4 $helvetica  ;
@@ -291,11 +291,8 @@ footer {
   padding: 20px 0;
   text-align: center;
 }
+
 // Settled on moving the import of syntax highlighting to the bottom of the CSS
 // ... Otherwise it really bloats up the top of the CSS file and makes it difficult to find the start
-{
 @import "highlights";
 @import "svg-icons";
-}
-Contact GitHub API Training Shop Blog About
-© 2016 GitHub, Inc. Terms Privacy Security Status Help
