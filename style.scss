@@ -16,7 +16,7 @@
 html {
   font-size: 100%;
 }
-    
+
 body {
   background:#328CC1;
   font: 18px/1.4 $helvetica  ;
@@ -222,8 +222,9 @@ img {
 nav {
   float: right;
   margin-top: 23px; // @TODO: Vertically middle align
-  font-family: $helveticaNeue;
+  font-family: "Times New Roman", Times, serif;
   font-size: 18px;
+ }
 
   @include mobile {
     float: none;
