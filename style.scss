@@ -18,7 +18,10 @@ html {
 }
 
 body {
- background: #ffffff url("img_tree.png") no-repeat right top;
+background-image: url("<img src="http://www.wolaver.org/space/crab.jpg" alt="Image result for crab nebula"/>");
+    background-repeat: no-repeat;
+    background-position: right top;
+    background-attachment: fixed;
 }
 
 body {
