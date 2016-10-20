@@ -28,7 +28,7 @@ published: true
   <tr>
     <td>Did I reach my target? 
 (add details to "Lesson Review")</td>
-    <td>I did complete my target just because we went very slowly</td>
+    <td>I did complete my target just, because we went very slowly</td>
   </tr>
 </table>
 
