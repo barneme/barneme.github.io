@@ -34,6 +34,21 @@ table, th, td {
     border: 1px solid black; 
 }
 
+p.one {
+    border-style: solid;
+    border-color: red;
+}
+
+p.two {
+    border-style: solid;
+    border-color: green;
+}
+
+p.three {
+    border-style: solid;
+    border-color: red green blue yellow;
+}
+
 .container {
   margin: 0 auto;
   max-width: 740px;
