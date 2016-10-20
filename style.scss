@@ -28,8 +28,6 @@ body {
 
 table {
     border-collapse: collapse;
-    colour: #ffffff;    
-    opacity: 75%;
 }
 
 table, th, td {
@@ -43,6 +41,22 @@ table, th, td {
   width: 100%;
 }
 
+.defaultTextBox {
+    padding: 0;
+    height: 30px;
+    position: relative;
+    left: 0;
+    outline: none;
+    border: 1px solid #cdcdcd;
+    border-color: rgba(0,0,0,.15);
+    background-color: white;
+    font-size: 16px;
+}
+
+.advancedSearchTextbox {
+    width: 526px;
+    margin-right: -4px;
+}
 h1, h2, h3, h4, h5, h6 {
   font-family: $helveticaNeue;
   color: #D9B310;
