@@ -30,12 +30,11 @@ table {
     border-collapse: collapse;
 }
 
-<button class="w3-btn" onclick="document.getElementById('id01').style.display='block'">Show container</button>
-
 table, th, td {
     border: 1px solid black; 
 }
 .container {
+  colour: #ffffff
   margin: 0 auto;
   max-width: 740px;
   padding: 0 10px;
