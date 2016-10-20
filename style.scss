@@ -33,17 +33,17 @@ table {
 table, th, td {
     border: 1px solid black; 
 }
-.tb7 {
-	width: 221px;
-	background: transparent url('images/bg.jpg') no-repeat;
-	color : #747862;
-	height:20px;
-	border:0;
-	padding:4px 8px;
-	margin-bottom:0px;
-}        
 
+#container{
+    margin: 30px 50px 30px 50px;
+    border: 2px solid #00A;
+    background-color:#FFF;
 }
+
+body{
+    background-color: #DBB;
+}
+
 .container {
   margin: 0 auto;
   max-width: 740px;
