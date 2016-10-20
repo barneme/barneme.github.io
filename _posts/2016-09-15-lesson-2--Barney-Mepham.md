@@ -23,12 +23,12 @@ published: true
   </tr>
   <tr>
     <td>Target for this lesson?</td>
-    <td>Work faster</td>
+    <td>Work faster to achieve more</td>
   </tr>
   <tr>
     <td>Did I reach my target? 
 (add details to "Lesson Review")</td>
-    <td>Yes</td>
+    <td>Yes we work a lot faster than last week</td>
   </tr>
 </table>
 
