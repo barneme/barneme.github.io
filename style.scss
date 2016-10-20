@@ -17,10 +17,6 @@ html {
   font-size: 100%;
 }
 
-/* Basic Text Box */
-.tb1 {
-}
-
 body {
   background-image: url("http://wall-papers.info/images/cool-star-wallpaper/cool-star-wallpaper-21.jpg");
     	background-repeat: no-repeat;
@@ -38,6 +34,12 @@ table, th, td {
     border: 1px solid black; 
 }
 
+/* Background Color */
+.tb2 {
+	background-color : #99FFCC;
+	border: 1px solid #008000;
+	width: 230px;
+}
 .container {
   margin: 0 auto;
   max-width: 740px;
@@ -45,22 +47,6 @@ table, th, td {
   width: 100%;
 }
 
-.defaultTextBox {
-    padding: 0;
-    height: 30px;
-    position: relative;
-    left: 0;
-    outline: none;
-    border: 1px solid #cdcdcd;
-    border-color: rgba(0,0,0,.15);
-    background-color: #ffffff;
-    font-size: 16px;
-}
-
-.advancedSearchTextbox {
-    width: 526px;
-    margin-right: -4px;
-}
 h1, h2, h3, h4, h5, h6 {
   font-family: $helveticaNeue;
   color: #D9B310;
