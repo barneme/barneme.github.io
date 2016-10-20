@@ -26,10 +26,9 @@ body {
   color: #D9B310;
 }
 
-#container {
-    margin: 0 auto;
-    width: 750px;
-    background-color: #ffffff; 
+.jumbotron .container {
+position: relative;
+top:100px;
 }
 
 table {
