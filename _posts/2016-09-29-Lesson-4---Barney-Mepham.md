@@ -23,12 +23,12 @@ published: true
   </tr>
   <tr>
     <td>Target for this lesson?</td>
-    <td>To have a Github Pages Static Website</td>
+    <td>To make our websites prettier</td>
   </tr>
   <tr>
     <td>Did I reach my target? 
 (add details to "Lesson Review")</td>
-    <td>Yes</td>
+    <td>Yes I did reach my target today doesn't it look beautiful!!!!!</td>
   </tr>
 </table>
 
