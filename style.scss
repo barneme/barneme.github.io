@@ -34,14 +34,13 @@ table, th, td {
     border: 1px solid black; 
 }
 
-container{
-    margin: 30px 50px 30px 50px;
-    border: 2px solid #00A;
-    background-color:#FFF;
+html {
+  text-align:center;
 }
 
-body{
-    background-color: #DBB;
+body {
+  margin: 0 auto;
+  width: 960px;
 }
 
 .container {
