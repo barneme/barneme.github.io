@@ -34,6 +34,23 @@ table, th, td {
     border: 1px solid black; 
 }
 
+#container {
+	width: 900px;
+	margin: auto;
+	background-color:#FFFFFF;
+	border: 10px #FFFFFF;
+	overflow:auto;	
+}
+
+#header {
+	background-repeat: no-repeat;
+	height: 100px;
+	text-align: center;
+	font-weight: bold;
+	font-size: medium;
+	background-image: url(images/topbanner.gif);
+}
+
 html {
   text-align:center;
 }
