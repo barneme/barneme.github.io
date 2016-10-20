@@ -23,12 +23,12 @@ published: true
   </tr>
   <tr>
     <td>Target for this lesson?</td>
-    <td>To redo everything onto the usb stick</td>
+    <td>To get all our work onto the usb stick</td>
   </tr>
   <tr>
     <td>Did I reach my target? 
 (add details to "Lesson Review")</td>
-    <td>Yes</td>
+    <td>Yes so now i have it with me all the time on my keyring</td>
   </tr>
 </table>
 
