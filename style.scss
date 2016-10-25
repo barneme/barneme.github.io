@@ -55,10 +55,14 @@ body {
 }
 
 .container {
-    margin: 0 auto;
+  margin: 0 auto;
   max-width: 740px;
   padding: 0 10px;
   width: 100%;
+  background:rgba(35, 50, 55,0.9);
+	border-radius: 25px;
+    padding: 20px; 
+	border-bottom: 1px solid white;
 }
 
 h1, h2, h3, h4, h5, h6 {
