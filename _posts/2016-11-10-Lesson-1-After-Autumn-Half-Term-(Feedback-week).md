@@ -41,7 +41,7 @@ published: true
     <td>How did I learn? What strategies were effective? </td>
   </tr>
   <tr>
-    <td>I learnt by looking at other people's blogs that I needed to make sure my colour scheme worked, that I put enough effort into my homework and to make sure that I have features such as a table. From my feedback and how I felt about my blog I have changed certain features of my blog which I was not fond of, such as the fact that my image was absolutely massive.It was the size of a tennis ball instead of a more sensible size like this I also wanted to make all my titles onto the left side of my page as well as making my tables larger.</td>
+    <td>I learnt by looking at other people's blogs that I needed to make sure my colour scheme worked, that I put enough effort into my homework and to make sure that I have features such as a table. From my feedback and how I felt about my blog I have changed certain features of my blog which I was not fond of, such as the fact that my image was absolutely massive.It was the size of a tennis ball instead of a more sensible size like a penny. I also wanted to make all my titles onto the left side of my page as well as making my tables larger.</td>
   </tr>
   <tr>
     <td>What limited my learning? Which habits do I need to work on? </td>
