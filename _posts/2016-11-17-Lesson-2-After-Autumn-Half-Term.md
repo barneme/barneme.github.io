@@ -11,7 +11,7 @@ published: true
     <td>Title</td>
     <td>Lesson 2 After Autumn Half Term</td>
     <td>Date</td>
-    <td>017/11/16</td>
+    <td>17/11/16</td>
   </tr>
 </table>
 
