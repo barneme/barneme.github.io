@@ -1,5 +1,5 @@
 ---
-title: Lesson 4 After Half  Autumn
+title: Lesson 4 After Autumn Half Term
 layout: post
 author: barney.mepham
 permalink: /lesson-4-after-half--autumn/
