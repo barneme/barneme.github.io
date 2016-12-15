@@ -48,7 +48,7 @@ published: true
   </tr>
   <tr>
     <td>I spent a lot of time on level 2-6 as it was very hard but in the end the solution was as follows.
-
+https://www.google.co.uk/imgres?imgurl=http%3A%2F%2Fcdn.wikimg.net%2Fstrategywiki%2Fimages%2Fthumb%2F8%2F80%2FLBFlash2-6.png%2F915px-LBFlash2-6.png&imgrefurl=http%3A%2F%2Fstrategywiki.org%2Fwiki%2FLightbot%2FFlash_Procedures&docid=4vfxAmtvrc3UVM&tbnid=D4YdlEx4YSI-SM%3A&vet=1&w=915&h=611&bih=655&biw=1366&q=light%20bot%202-6&ved=0ahUKEwiD8LGd4PbQAhVGWhoKHYYnAMcQMwgbKAAwAA&iact=mrc&uact=8
 It seems simple right? But at the time I did not get it and everytime I moved it unlit a square so unlike the answer above I added three lightbulbs randomly in the top box as I was out of ideas as I was on it for around 20 minutes but luckily my guess let me win. I need work on remembering what worked before, before changing it again.</td>
   </tr>
   <tr>
