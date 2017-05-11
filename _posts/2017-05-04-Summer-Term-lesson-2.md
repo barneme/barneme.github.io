@@ -9,9 +9,9 @@ published: true
 <table>
   <tr>
     <td>Title</td>
-    <td>Summer Term Lesson 1</td>
+    <td>Summer Term Lesson 2</td>
     <td>Date</td>
-    <td>20/4/17</td>
+    <td>27/4/17</td>
   </tr>
 </table>
 
@@ -19,7 +19,7 @@ published: true
 <table>
   <tr>
     <td>Starting point:</td>
-    <td>The start of the Python course</td>
+    <td>9%</td>
   </tr>
   <tr>
     <td>Target for this lesson?</td>
