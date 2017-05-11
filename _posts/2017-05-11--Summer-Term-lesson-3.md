@@ -19,7 +19,7 @@ published: true
 <table>
   <tr>
     <td>Starting point:</td>
-    <td>The start of the Python course</td>
+    <td>19%</td>
   </tr>
   <tr>
     <td>Target for this lesson?</td>
