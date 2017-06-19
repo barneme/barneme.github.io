@@ -9,9 +9,9 @@ published: true
 <table>
   <tr>
     <td>Title</td>
-    <td>Summer Term Lesson 5</td>
+    <td>Summer Term Lesson 6</td>
     <td>Date</td>
-    <td>5/6/17</td>
+    <td>12/6/17</td>
   </tr>
 </table>
 
