@@ -53,3 +53,8 @@ Afterwards we carried on editing our spreadsheets and then I added a proper gran
 
 Once I had done that we were called to the front and we were showed how to add spreadsheets to our blogs which by the time you are reading this will be below here.
 
+<br>
+<br>
+<hd3 Spreadsheet hd3>
+
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRoIS-rTG8pD7ZV6XL73X_FuhoHgNoTeW3FgicMSHsoeqzahpEcEVfochPc82PkbJHJkpH58i37DnS0/pubhtml?widget=true&amp;headers=false"></iframe>
