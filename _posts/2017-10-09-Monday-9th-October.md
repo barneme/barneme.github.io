@@ -53,6 +53,7 @@ Afterwards we carried on editing our spreadsheets and then I added a proper gran
 
 Once I had done that we were called to the front and we were showed how to add spreadsheets to our blogs which by the time you are reading this will be below here.
 
+
 <br>
 <br>
 <hr>
